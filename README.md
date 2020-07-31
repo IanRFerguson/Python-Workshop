@@ -8,3 +8,6 @@ Hey howdy! Welcome to a <b>very</b> rudimentary introduction to the Python progr
 ## 01_Exercises
 * Still a work in progress!
 * This repo will eventually have interactive exercises to show off what you've learned!
+
+## SSNL Python Workshop
+* Notebook created for presentation to Stanford Social Neuroscience Lab in August 2020
